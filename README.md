@@ -1,3 +1,24 @@
-# Machine-Learning
-This repository contains my Machine Learning practice codes, notebooks, and notes.
-I use this repo to store all my ML experiments, assignments, and end-to-end workflows while learning ML step-by-step.
+# Python
+This repo contains well-organized, week-wise study material covering:
+
+Python Basics
+
+Data Types
+
+Loops & Conditions
+
+Functions
+
+Object-Oriented Programming
+
+File Handling
+
+Iterators & Generators
+
+Decorators
+
+Exception Handling
+
+GUI using Tkinter
+
+Interview Questions
